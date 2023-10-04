@@ -48,7 +48,7 @@ export const projects = [
     title: 'Movie Recommendation Engine',
     description: "Movie recommender systems using collaborative filtering on public datasets.",
     image: '/images/6.png',
-    tags: ['React', 'Metamask'],
+    tags: ['Python'],
     source: 'https://github.com/yash9657/movie-recom',
     visit: '#',
     id: 5,
